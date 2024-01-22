@@ -1,0 +1,62 @@
+[
+  {
+      "code_tarif": 15013,
+      "prime_fixe": 0,
+      "redevance": 1132
+  },
+  {
+      "code_tarif": 15022,
+      "prime_fixe": 1775,
+      "redevance": 457
+  },
+  {
+    "code_tarif": 15032,
+    "prime_fixe": 3550,
+    "redevance": 457
+},
+{
+  "code_tarif": 15042,
+  "prime_fixe": 5352,
+  "redevance": 457
+},
+{
+  "code_tarif": 15052,
+  "prime_fixe": 7100,
+  "redevance": 764
+},
+{
+  "code_tarif": 15062,
+  "prime_fixe": 8875,
+  "redevance": 764
+},
+{
+  "code_tarif": 15072,
+  "prime_fixe": 10650,
+  "redevance": 764
+},
+{
+  "code_tarif": 17032,
+  "prime_fixe": 10610,
+  "redevance": 1226
+},
+{
+  "code_tarif": 17042,
+  "prime_fixe": 15915,
+  "redevance": 1226
+},
+{
+  "code_tarif": 17052,
+  "prime_fixe": 21220,
+  "redevance": 1373
+},
+{
+  "code_tarif": 17062,
+  "prime_fixe": 26525,
+  "redevance": 1373
+},
+{
+  "code_tarif": 17072,
+  "prime_fixe": 31830,
+  "redevance": 1373
+}
+]

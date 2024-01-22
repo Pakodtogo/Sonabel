@@ -1,0 +1,492 @@
+[
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 75,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 78,
+    "CodeTarif": 15013
+  },
+  {
+    "Debut": 51,
+    "Fin": 75,
+    "CoutHT": 75,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 80,
+    "CodeTarif": 15013
+  },
+  {
+    "Debut": 76,
+    "Fin": 100,
+    "CoutHT": 128,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 133,
+    "CodeTarif": 15013
+  },
+  {
+    "Debut": 101,
+    "Fin": 150,
+    "CoutHT": 138,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 143,
+    "CodeTarif": 15013
+  },
+  {
+    "Debut": 151,
+    "Fin": 0,
+    "CoutHT": 138,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 168.74,
+    "CodeTarif": 15013
+  },
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 96,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 99,
+    "CodeTarif": 15022
+  },
+  {
+    "Debut": 51,
+    "Fin": 150,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 107,
+    "CodeTarif": 15022
+  },
+  {
+    "Debut": 151,
+    "Fin": 200,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 126.26,
+    "CodeTarif": 15022
+  },
+  {
+    "Debut": 201,
+    "Fin": 0,
+    "CoutHT": 109,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 134.52,
+    "CodeTarif": 15022
+  },
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 96,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 99,
+    "CodeTarif": 15032
+  },
+  {
+    "Debut": 51,
+    "Fin": 150,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 107,
+    "CodeTarif": 15032
+  },
+  {
+    "Debut": 151,
+    "Fin": 200,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 126.26,
+    "CodeTarif": 15032
+  },
+  {
+    "Debut": 201,
+    "Fin": 0,
+    "CoutHT": 109,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 134.52,
+    "CodeTarif": 15032
+  },
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 96,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 99,
+    "CodeTarif": 15042
+  },
+  {
+    "Debut": 51,
+    "Fin": 150,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 107,
+    "CodeTarif": 15042
+  },
+  {
+    "Debut": 151,
+    "Fin": 200,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 126.26,
+    "CodeTarif": 15042
+  },
+  {
+    "Debut": 201,
+    "Fin": 0,
+    "CoutHT": 109,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 134.52,
+    "CodeTarif": 15042
+  },
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 96,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 99,
+    "CodeTarif": 15052
+  },
+  {
+    "Debut": 51,
+    "Fin": 150,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 107,
+    "CodeTarif": 15052
+  },
+  {
+    "Debut": 151,
+    "Fin": 200,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 126.26,
+    "CodeTarif": 15052
+  },
+  {
+    "Debut": 201,
+    "Fin": 0,
+    "CoutHT": 109,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 134.52,
+    "CodeTarif": 15052
+  },
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 96,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 99,
+    "CodeTarif": 15062
+  },
+  {
+    "Debut": 51,
+    "Fin": 150,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 107,
+    "CodeTarif": 15062
+  },
+  {
+    "Debut": 151,
+    "Fin": 200,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 126.26,
+    "CodeTarif": 15062
+  },
+  {
+    "Debut": 201,
+    "Fin": 0,
+    "CoutHT": 109,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 134.52,
+    "CodeTarif": 15062
+  },
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 96,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 99,
+    "CodeTarif": 15072
+  },
+  {
+    "Debut": 51,
+    "Fin": 150,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 107,
+    "CodeTarif": 15072
+  },
+  {
+    "Debut": 151,
+    "Fin": 200,
+    "CoutHT": 102,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 126.26,
+    "CodeTarif": 15072
+  },
+  {
+    "Debut": 201,
+    "Fin": 0,
+    "CoutHT": 109,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 134.52,
+    "CodeTarif": 15072
+  },
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 96,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 99,
+    "CodeTarif": 17032
+  },
+  {
+    "Debut": 51,
+    "Fin": 150,
+    "CoutHT": 108,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 113,
+    "CodeTarif": 17032
+  },
+  {
+    "Debut": 151,
+    "Fin": 200,
+    "CoutHT": 108,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 133.34,
+    "CodeTarif": 17032
+  },
+  {
+    "Debut": 201,
+    "Fin": 0,
+    "CoutHT": 114,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 140.42,
+    "CodeTarif": 17032
+  },
+  {
+    "Debut": 1,
+    "Fin": 50,
+    "CoutHT": 96,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 1,
+    "TvaTrch": 0,
+    "CoutTTC": 99,
+    "CodeTarif": 17042
+  },
+  {
+    "Debut": 51,
+    "Fin": 150,
+    "CoutHT": 108,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0,
+    "CoutTTC": 113,
+    "CodeTarif": 17042
+  },
+  {
+    "Debut": 151,
+    "Fin": 200,
+    "CoutHT": 108,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 133.34,
+    "CodeTarif": 17042
+  },
+   {
+    "Debut": 201,
+    "Fin": 0,
+    "CoutHT": 114,
+    "TdeTrch": 2,
+    "TsdaaeTrch": 3,
+    "TvaTrch": 0.18,
+    "CoutTTC": 140.42,
+    "CodeTarif": 17042
+  },
+{
+        "Debut": 1,
+        "Fin": 50,
+        "CoutHT": 96,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 1,
+        "TvaTrch": 0,
+        "CoutTTC": 99,
+        "CodeTarif": 17052
+      },
+      {
+        "Debut": 51,
+        "Fin": 150,
+        "CoutHT": 108,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0,
+        "CoutTTC": 113,
+        "CodeTarif": 17052
+      },
+      {
+        "Debut": 151,
+        "Fin": 200,
+        "CoutHT": 108,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0.18,
+        "CoutTTC": 133.34,
+        "CodeTarif": 17052
+      },
+      {
+        "Debut": 201,
+        "Fin": 0,
+        "CoutHT": 114,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0.18,
+        "CoutTTC": 140.42,
+        "CodeTarif": 17052
+      },
+ {
+        "Debut": 1,
+        "Fin": 50,
+        "CoutHT": 96,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 1,
+        "TvaTrch": 0,
+        "CoutTTC": 99,
+        "CodeTarif": 17062
+      },
+      {
+        "Debut": 51,
+        "Fin": 150,
+        "CoutHT": 108,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0,
+        "CoutTTC": 113,
+        "CodeTarif": 17062
+      },
+      {
+        "Debut": 151,
+        "Fin": 200,
+        "CoutHT": 108,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0.18,
+        "CoutTTC": 133.34,
+        "CodeTarif": 17062
+      },
+      {
+        "Debut": 201,
+        "Fin": 0,
+        "CoutHT": 114,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0.18,
+        "CoutTTC": 140.42,
+        "CodeTarif": 17062
+      },
+  {
+        "Debut": 1,
+        "Fin": 50,
+        "CoutHT": 96,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 1,
+        "TvaTrch": 0,
+        "CoutTTC": 99,
+        "CodeTarif": 17072
+      },
+      {
+        "Debut": 51,
+        "Fin": 150,
+        "CoutHT": 108,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0,
+        "CoutTTC": 113,
+        "CodeTarif": 17072
+      },
+      {
+        "Debut": 151,
+        "Fin": 200,
+        "CoutHT": 108,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0.18,
+        "CoutTTC": 133.34,
+        "CodeTarif": 17072
+      },
+      {
+        "Debut": 201,
+        "Fin": 0,
+        "CoutHT": 114,
+        "TdeTrch": 2,
+        "TsdaaeTrch": 3,
+        "TvaTrch": 0.18,
+        "CoutTTC": 140.42,
+        "CodeTarif": 17072
+      }
+    ]
